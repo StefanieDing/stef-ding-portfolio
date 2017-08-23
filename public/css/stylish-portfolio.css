@@ -17,8 +17,13 @@ body {
 }
 
 a{
-    color: #49D4A2;
+    color: #fff;
 }
+
+.footer-bg{
+    background-color: #49D4A2; 
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
